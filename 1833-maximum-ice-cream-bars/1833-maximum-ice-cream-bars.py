@@ -5,11 +5,24 @@ class Solution(object):
         :type coins: int
         :rtype: int
         """
-        costs.sort()
-        res=0
-        i=0
-        while i<len(costs) and costs[i]<=coins:
-            coins-=costs[i]
-            res+=1
-            i+=1
-        return res            
+        maxCost = max(costs)
+        arr = [0] * (maxCost + 1)
+
+        for cost in costs:
+            arr[cost] += 1
+
+        ans = 0
+
+        for cost, count in enumerate(arr):
+            if count == 0:
+                continue
+
+            canBuy = min(count, coins // cost)
+
+            ans += canBuy
+            coins -= canBuy * cost
+
+            if coins < cost:
+                break
+
+        return ans
