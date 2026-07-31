@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Dakshgupta25/DSA/tree/master/0881-boats-to-save-people) |
 | [0991-broken-calculator](https://github.com/Dakshgupta25/DSA/tree/master/0991-broken-calculator) |
+| [1328-break-a-palindrome](https://github.com/Dakshgupta25/DSA/tree/master/1328-break-a-palindrome) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dakshgupta25/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Dakshgupta25/DSA/tree/master/2126-destroying-asteroids) |
 ## Counting Sort
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0991-broken-calculator](https://github.com/Dakshgupta25/DSA/tree/master/0991-broken-calculator) |
+## String
+|  |
+| ------- |
+| [1328-break-a-palindrome](https://github.com/Dakshgupta25/DSA/tree/master/1328-break-a-palindrome) |
 <!---LeetCode Topics End-->
