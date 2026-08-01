@@ -1,14 +1,12 @@
 class Solution(object):
     def partitionString(self, s):
         
-        seen = set()
-        partitions = 1
-
-        for ch in s:
-            if ch in seen:
-                partitions += 1
-                seen.clear()
-
-            seen.add(ch)
-
-        return partitions
+        parts = 1
+        chars = ""
+        for c in s:
+            if c in chars:
+                parts += 1
+                chars = c
+            else:
+                chars += c
+        return parts
