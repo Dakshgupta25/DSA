@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1833-maximum-ice-cream-bars](https://github.com/Dakshgupta25/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Dakshgupta25/DSA/tree/master/2126-destroying-asteroids) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Dakshgupta25/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Dakshgupta25/DSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dakshgupta25/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2126-destroying-asteroids](https://github.com/Dakshgupta25/DSA/tree/master/2126-destroying-asteroids) |
 | [2405-optimal-partition-of-string](https://github.com/Dakshgupta25/DSA/tree/master/2405-optimal-partition-of-string) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Dakshgupta25/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Dakshgupta25/DSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Counting Sort
 |  |
 | ------- |
