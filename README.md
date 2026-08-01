@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1328-break-a-palindrome](https://github.com/Dakshgupta25/DSA/tree/master/1328-break-a-palindrome) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Dakshgupta25/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2405-optimal-partition-of-string](https://github.com/Dakshgupta25/DSA/tree/master/2405-optimal-partition-of-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Dakshgupta25/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Game Theory
 |  |
 | ------- |
