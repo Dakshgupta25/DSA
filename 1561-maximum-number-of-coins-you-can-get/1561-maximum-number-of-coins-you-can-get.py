@@ -4,7 +4,7 @@ class Solution(object):
         :type piles: List[int]
         :rtype: int
         """
-        piles.sort()
+        piles = sorted(piles)
         n=len(piles)
         
         res=0
