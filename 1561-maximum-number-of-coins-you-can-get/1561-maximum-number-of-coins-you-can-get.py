@@ -4,10 +4,10 @@ class Solution(object):
         :type piles: List[int]
         :rtype: int
         """
-        piles = sorted(piles)
-        n=len(piles)
+        piles = sorted(piles, reverse=True)
+        n = len(piles)//3
+        result = 0
+        for i in range(1, 2*n+1, 2):
+            result += piles[i]
+        return result
         
-        res=0
-        for i in range(n//3,n,2):
-            res+=piles[i]
-        return res
