@@ -1,14 +1,14 @@
 class Solution(object):
     def minimumLength(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
-        dic={}
-        n=len(s)
-        for i in s:
-            dic[i]=dic.get(i,0)+1
-            if dic[i]==3:
-                dic[i]-=2
-                n-=2
+        freq = [0] * 26
+        n = len(s)
+
+        for ch in s:
+            idx = ord(ch) - ord('a')
+            freq[idx] += 1
+
+            if freq[idx] == 3:
+                freq[idx] -= 2
+                n -= 2
+
         return n
