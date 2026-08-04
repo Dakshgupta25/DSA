@@ -5,8 +5,10 @@ class Solution(object):
         :rtype: int
         """
         dic={}
+        n=len(s)
         for i in s:
             dic[i]=dic.get(i,0)+1
             if dic[i]==3:
                 dic[i]-=2
-        return sum(dic.values())
+                n-=2
+        return n
