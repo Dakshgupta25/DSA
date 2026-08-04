@@ -4,11 +4,11 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        ans=0
-        j=0
-
-        for i in range(len(s)):
-            if s[i]=="0":
-                ans+= i-j
-                j+=1
+        ones = 0
+        ans = 0
+        for ch in s:
+            if ch == '1':
+                ones += 1
+            else:
+                ans += ones
         return ans
