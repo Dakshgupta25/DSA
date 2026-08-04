@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Dakshgupta25/DSA/tree/master/0881-boats-to-save-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Dakshgupta25/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2938-separate-black-and-white-balls](https://github.com/Dakshgupta25/DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Dakshgupta25/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Dakshgupta25/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Dakshgupta25/DSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [2938-separate-black-and-white-balls](https://github.com/Dakshgupta25/DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Counting Sort
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2405-optimal-partition-of-string](https://github.com/Dakshgupta25/DSA/tree/master/2405-optimal-partition-of-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Dakshgupta25/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Dakshgupta25/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [2938-separate-black-and-white-balls](https://github.com/Dakshgupta25/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Dakshgupta25/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Game Theory
 |  |
