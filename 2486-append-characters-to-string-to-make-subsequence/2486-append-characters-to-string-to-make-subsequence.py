@@ -8,8 +8,8 @@ class Solution(object):
         n=len(t)
         j=0
         for i in s:
-            if j>=n:
-                break
+            if j==n:
+                return 0
             if i==t[j]:
                 j+=1
         return n-j
