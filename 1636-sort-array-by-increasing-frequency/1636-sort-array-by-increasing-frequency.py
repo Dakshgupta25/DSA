@@ -10,6 +10,6 @@ class Solution(object):
         
         res=[]
         for key, value in sorted(dic.items(), key=lambda x: (x[1], -x[0])):
-            res+=[key]*value
+            res.extend([key]*value)
         
         return res
