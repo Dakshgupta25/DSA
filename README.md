@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Dakshgupta25/DSA/tree/master/0231-power-of-two) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dakshgupta25/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Dakshgupta25/DSA/tree/master/0231-power-of-two) |
 | [0991-broken-calculator](https://github.com/Dakshgupta25/DSA/tree/master/0991-broken-calculator) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dakshgupta25/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Dakshgupta25/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Dakshgupta25/DSA/tree/master/0682-baseball-game) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Dakshgupta25/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
