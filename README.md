@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0624-maximum-distance-in-arrays](https://github.com/Dakshgupta25/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0682-baseball-game](https://github.com/Dakshgupta25/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Dakshgupta25/DSA/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/Dakshgupta25/DSA/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Dakshgupta25/DSA/tree/master/0881-boats-to-save-people) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dakshgupta25/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dakshgupta25/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -43,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Dakshgupta25/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Dakshgupta25/DSA/tree/master/0231-power-of-two) |
+| [0832-flipping-an-image](https://github.com/Dakshgupta25/DSA/tree/master/0832-flipping-an-image) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Dakshgupta25/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dakshgupta25/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Dakshgupta25/DSA/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Dakshgupta25/DSA/tree/master/0881-boats-to-save-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Dakshgupta25/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/Dakshgupta25/DSA/tree/master/2938-separate-black-and-white-balls) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Dakshgupta25/DSA/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/Dakshgupta25/DSA/tree/master/0832-flipping-an-image) |
 ## Recursion
 |  |
 | ------- |
@@ -133,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Dakshgupta25/DSA/tree/master/0191-number-of-1-bits) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Dakshgupta25/DSA/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
