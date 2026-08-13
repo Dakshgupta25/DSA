@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dakshgupta25/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/Dakshgupta25/DSA/tree/master/0217-contains-duplicate) |
 | [0624-maximum-distance-in-arrays](https://github.com/Dakshgupta25/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0682-baseball-game](https://github.com/Dakshgupta25/DSA/tree/master/0682-baseball-game) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dakshgupta25/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Dakshgupta25/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0881-boats-to-save-people](https://github.com/Dakshgupta25/DSA/tree/master/0881-boats-to-save-people) |
 | [0991-broken-calculator](https://github.com/Dakshgupta25/DSA/tree/master/0991-broken-calculator) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dakshgupta25/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dakshgupta25/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
 |  |
