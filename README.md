@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Dakshgupta25/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Dakshgupta25/DSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dakshgupta25/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Dakshgupta25/DSA/tree/master/3828-final-element-after-subarray-deletions) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1025-divisor-game](https://github.com/Dakshgupta25/DSA/tree/master/1025-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dakshgupta25/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Dakshgupta25/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Dakshgupta25/DSA/tree/master/3828-final-element-after-subarray-deletions) |
 ## String
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1025-divisor-game](https://github.com/Dakshgupta25/DSA/tree/master/1025-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dakshgupta25/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Dakshgupta25/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Dakshgupta25/DSA/tree/master/3828-final-element-after-subarray-deletions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0292-nim-game](https://github.com/Dakshgupta25/DSA/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Dakshgupta25/DSA/tree/master/1025-divisor-game) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Dakshgupta25/DSA/tree/master/3828-final-element-after-subarray-deletions) |
 ## Minimax
 |  |
 | ------- |
