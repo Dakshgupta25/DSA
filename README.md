@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dakshgupta25/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Dakshgupta25/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Dakshgupta25/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3227-vowels-game-in-a-string](https://github.com/Dakshgupta25/DSA/tree/master/3227-vowels-game-in-a-string) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Dakshgupta25/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dakshgupta25/DSA/tree/master/3828-final-element-after-subarray-deletions) |
 ## String
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2938-separate-black-and-white-balls](https://github.com/Dakshgupta25/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dakshgupta25/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Dakshgupta25/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
+| [3227-vowels-game-in-a-string](https://github.com/Dakshgupta25/DSA/tree/master/3227-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dakshgupta25/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Dakshgupta25/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Dakshgupta25/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3227-vowels-game-in-a-string](https://github.com/Dakshgupta25/DSA/tree/master/3227-vowels-game-in-a-string) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Dakshgupta25/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dakshgupta25/DSA/tree/master/3828-final-element-after-subarray-deletions) |
 ## Dynamic Programming
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0292-nim-game](https://github.com/Dakshgupta25/DSA/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Dakshgupta25/DSA/tree/master/1025-divisor-game) |
+| [3227-vowels-game-in-a-string](https://github.com/Dakshgupta25/DSA/tree/master/3227-vowels-game-in-a-string) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dakshgupta25/DSA/tree/master/3828-final-element-after-subarray-deletions) |
 ## Minimax
 |  |
