@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Dakshgupta25/DSA/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/Dakshgupta25/DSA/tree/master/0292-nim-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dakshgupta25/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0991-broken-calculator](https://github.com/Dakshgupta25/DSA/tree/master/0991-broken-calculator) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dakshgupta25/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Dakshgupta25/DSA/tree/master/0292-nim-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dakshgupta25/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Dakshgupta25/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Dynamic Programming
@@ -164,4 +166,20 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0584-find-customer-referee](https://github.com/Dakshgupta25/DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Dakshgupta25/DSA/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Dakshgupta25/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Dakshgupta25/DSA/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Dakshgupta25/DSA/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Dakshgupta25/DSA/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Dakshgupta25/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
