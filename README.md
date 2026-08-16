@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0231-power-of-two](https://github.com/Dakshgupta25/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Dakshgupta25/DSA/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Dakshgupta25/DSA/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Dakshgupta25/DSA/tree/master/0292-nim-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dakshgupta25/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/Dakshgupta25/DSA/tree/master/0877-stone-game) |
