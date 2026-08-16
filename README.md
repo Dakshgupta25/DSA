@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Dakshgupta25/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Dakshgupta25/DSA/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Dakshgupta25/DSA/tree/master/0292-nim-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dakshgupta25/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/Dakshgupta25/DSA/tree/master/0877-stone-game) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Dakshgupta25/DSA/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Dakshgupta25/DSA/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Dakshgupta25/DSA/tree/master/0832-flipping-an-image) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Dakshgupta25/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Dakshgupta25/DSA/tree/master/0877-stone-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Dakshgupta25/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
