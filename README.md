@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1025-divisor-game](https://github.com/Dakshgupta25/DSA/tree/master/1025-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dakshgupta25/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Dakshgupta25/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2413-smallest-even-multiple](https://github.com/Dakshgupta25/DSA/tree/master/2413-smallest-even-multiple) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Dakshgupta25/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-vowels-game-in-a-string](https://github.com/Dakshgupta25/DSA/tree/master/3227-vowels-game-in-a-string) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Dakshgupta25/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0258-add-digits](https://github.com/Dakshgupta25/DSA/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dakshgupta25/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2413-smallest-even-multiple](https://github.com/Dakshgupta25/DSA/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dakshgupta25/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Euclidean Algorithm
 |  |
