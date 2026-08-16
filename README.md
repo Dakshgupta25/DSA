@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0877-stone-game](https://github.com/Dakshgupta25/DSA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Dakshgupta25/DSA/tree/master/0881-boats-to-save-people) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dakshgupta25/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dakshgupta25/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dakshgupta25/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dakshgupta25/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dakshgupta25/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dakshgupta25/DSA/tree/master/0217-contains-duplicate) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dakshgupta25/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dakshgupta25/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dakshgupta25/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2405-optimal-partition-of-string](https://github.com/Dakshgupta25/DSA/tree/master/2405-optimal-partition-of-string) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Counting Sort
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dakshgupta25/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dakshgupta25/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dakshgupta25/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Dakshgupta25/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0292-nim-game](https://github.com/Dakshgupta25/DSA/tree/master/0292-nim-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dakshgupta25/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/Dakshgupta25/DSA/tree/master/0877-stone-game) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dakshgupta25/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0991-broken-calculator](https://github.com/Dakshgupta25/DSA/tree/master/0991-broken-calculator) |
 | [1025-divisor-game](https://github.com/Dakshgupta25/DSA/tree/master/1025-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dakshgupta25/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -221,4 +225,13 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Dakshgupta25/DSA/tree/master/0258-add-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dakshgupta25/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dakshgupta25/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dakshgupta25/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
