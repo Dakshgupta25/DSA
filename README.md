@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dakshgupta25/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0991-broken-calculator](https://github.com/Dakshgupta25/DSA/tree/master/0991-broken-calculator) |
 | [1025-divisor-game](https://github.com/Dakshgupta25/DSA/tree/master/1025-divisor-game) |
+| [1447-simplified-fractions](https://github.com/Dakshgupta25/DSA/tree/master/1447-simplified-fractions) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dakshgupta25/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Dakshgupta25/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2413-smallest-even-multiple](https://github.com/Dakshgupta25/DSA/tree/master/2413-smallest-even-multiple) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [1328-break-a-palindrome](https://github.com/Dakshgupta25/DSA/tree/master/1328-break-a-palindrome) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dakshgupta25/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1447-simplified-fractions](https://github.com/Dakshgupta25/DSA/tree/master/1447-simplified-fractions) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Dakshgupta25/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2405-optimal-partition-of-string](https://github.com/Dakshgupta25/DSA/tree/master/2405-optimal-partition-of-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Dakshgupta25/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0258-add-digits](https://github.com/Dakshgupta25/DSA/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dakshgupta25/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1447-simplified-fractions](https://github.com/Dakshgupta25/DSA/tree/master/1447-simplified-fractions) |
 | [2413-smallest-even-multiple](https://github.com/Dakshgupta25/DSA/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/Dakshgupta25/DSA/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dakshgupta25/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -238,8 +241,10 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dakshgupta25/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1447-simplified-fractions](https://github.com/Dakshgupta25/DSA/tree/master/1447-simplified-fractions) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dakshgupta25/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1447-simplified-fractions](https://github.com/Dakshgupta25/DSA/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
