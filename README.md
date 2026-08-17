@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0215-kth-largest-element-in-an-array](https://github.com/Dakshgupta25/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Dakshgupta25/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Dakshgupta25/DSA/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/Dakshgupta25/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0624-maximum-distance-in-arrays](https://github.com/Dakshgupta25/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0682-baseball-game](https://github.com/Dakshgupta25/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Dakshgupta25/DSA/tree/master/0724-find-pivot-index) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dakshgupta25/DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Dakshgupta25/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dakshgupta25/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dakshgupta25/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dakshgupta25/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dakshgupta25/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Dakshgupta25/DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Dakshgupta25/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/Dakshgupta25/DSA/tree/master/0881-boats-to-save-people) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dakshgupta25/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dakshgupta25/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dakshgupta25/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dakshgupta25/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dakshgupta25/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dakshgupta25/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Dakshgupta25/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dakshgupta25/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Dakshgupta25/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -256,9 +261,15 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dakshgupta25/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Dakshgupta25/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/Dakshgupta25/DSA/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dakshgupta25/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Dakshgupta25/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dakshgupta25/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
