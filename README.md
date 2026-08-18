@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dakshgupta25/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dakshgupta25/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Dakshgupta25/DSA/tree/master/2126-destroying-asteroids) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Dakshgupta25/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Dakshgupta25/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2614-prime-in-diagonal](https://github.com/Dakshgupta25/DSA/tree/master/2614-prime-in-diagonal) |
 | [2848-points-that-intersect-with-cars](https://github.com/Dakshgupta25/DSA/tree/master/2848-points-that-intersect-with-cars) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dakshgupta25/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dakshgupta25/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Dakshgupta25/DSA/tree/master/2126-destroying-asteroids) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Dakshgupta25/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/Dakshgupta25/DSA/tree/master/2974-minimum-number-game) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Dakshgupta25/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Bit Manipulation
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0258-add-digits](https://github.com/Dakshgupta25/DSA/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Dakshgupta25/DSA/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Dakshgupta25/DSA/tree/master/0832-flipping-an-image) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Dakshgupta25/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Dakshgupta25/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Dakshgupta25/DSA/tree/master/2974-minimum-number-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Dakshgupta25/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0832-flipping-an-image](https://github.com/Dakshgupta25/DSA/tree/master/0832-flipping-an-image) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dakshgupta25/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Dakshgupta25/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/Dakshgupta25/DSA/tree/master/2614-prime-in-diagonal) |
 ## Primality Test
 |  |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0347-top-k-frequent-elements](https://github.com/Dakshgupta25/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/Dakshgupta25/DSA/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dakshgupta25/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Dakshgupta25/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Dakshgupta25/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Dakshgupta25/DSA/tree/master/2974-minimum-number-game) |
 ## Quickselect
