@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2848-points-that-intersect-with-cars](https://github.com/Dakshgupta25/DSA/tree/master/2848-points-that-intersect-with-cars) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Dakshgupta25/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Dakshgupta25/DSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [2974-minimum-number-game](https://github.com/Dakshgupta25/DSA/tree/master/2974-minimum-number-game) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dakshgupta25/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Dakshgupta25/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dakshgupta25/DSA/tree/master/3828-final-element-after-subarray-deletions) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dakshgupta25/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dakshgupta25/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Dakshgupta25/DSA/tree/master/2126-destroying-asteroids) |
+| [2974-minimum-number-game](https://github.com/Dakshgupta25/DSA/tree/master/2974-minimum-number-game) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Dakshgupta25/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Bit Manipulation
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0682-baseball-game](https://github.com/Dakshgupta25/DSA/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Dakshgupta25/DSA/tree/master/0832-flipping-an-image) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Dakshgupta25/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2974-minimum-number-game](https://github.com/Dakshgupta25/DSA/tree/master/2974-minimum-number-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Dakshgupta25/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Recursion
 |  |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1046-last-stone-weight](https://github.com/Dakshgupta25/DSA/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dakshgupta25/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Dakshgupta25/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2974-minimum-number-game](https://github.com/Dakshgupta25/DSA/tree/master/2974-minimum-number-game) |
 ## Quickselect
 |  |
 | ------- |
