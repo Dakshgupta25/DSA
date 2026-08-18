@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dakshgupta25/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dakshgupta25/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Dakshgupta25/DSA/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dakshgupta25/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dakshgupta25/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dakshgupta25/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dakshgupta25/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0217-contains-duplicate](https://github.com/Dakshgupta25/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Dakshgupta25/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/Dakshgupta25/DSA/tree/master/0881-boats-to-save-people) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dakshgupta25/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dakshgupta25/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dakshgupta25/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dakshgupta25/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Dakshgupta25/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dakshgupta25/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Dakshgupta25/DSA/tree/master/0832-flipping-an-image) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dakshgupta25/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2614-prime-in-diagonal](https://github.com/Dakshgupta25/DSA/tree/master/2614-prime-in-diagonal) |
 ## Primality Test
 |  |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0215-kth-largest-element-in-an-array](https://github.com/Dakshgupta25/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Dakshgupta25/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/Dakshgupta25/DSA/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dakshgupta25/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Dakshgupta25/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Quickselect
 |  |
