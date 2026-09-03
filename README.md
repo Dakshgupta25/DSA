@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Dakshgupta25/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Dakshgupta25/DSA/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
@@ -343,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0101-symmetric-tree](https://github.com/Dakshgupta25/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dakshgupta25/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Dakshgupta25/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
