@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0001-two-sum](https://github.com/Dakshgupta25/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Dakshgupta25/DSA/tree/master/0014-longest-common-prefix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dakshgupta25/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dakshgupta25/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Dakshgupta25/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Dakshgupta25/DSA/tree/master/0238-product-of-array-except-self) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dakshgupta25/DSA/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/Dakshgupta25/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dakshgupta25/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Dakshgupta25/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dakshgupta25/DSA/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
 | [1328-break-a-palindrome](https://github.com/Dakshgupta25/DSA/tree/master/1328-break-a-palindrome) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dakshgupta25/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1447-simplified-fractions](https://github.com/Dakshgupta25/DSA/tree/master/1447-simplified-fractions) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dakshgupta25/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
 | [0877-stone-game](https://github.com/Dakshgupta25/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dakshgupta25/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1025-divisor-game](https://github.com/Dakshgupta25/DSA/tree/master/1025-divisor-game) |
@@ -354,4 +358,13 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dakshgupta25/DSA/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
