@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0881-boats-to-save-people](https://github.com/Dakshgupta25/DSA/tree/master/0881-boats-to-save-people) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dakshgupta25/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dakshgupta25/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0994-rotting-oranges](https://github.com/Dakshgupta25/DSA/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Dakshgupta25/DSA/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dakshgupta25/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Dakshgupta25/DSA/tree/master/1046-last-stone-weight) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0200-number-of-islands](https://github.com/Dakshgupta25/DSA/tree/master/0200-number-of-islands) |
 | [0832-flipping-an-image](https://github.com/Dakshgupta25/DSA/tree/master/0832-flipping-an-image) |
+| [0994-rotting-oranges](https://github.com/Dakshgupta25/DSA/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dakshgupta25/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Dakshgupta25/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/Dakshgupta25/DSA/tree/master/2614-prime-in-diagonal) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dakshgupta25/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Dakshgupta25/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Dakshgupta25/DSA/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/Dakshgupta25/DSA/tree/master/0994-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
