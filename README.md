@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0207-course-schedule](https://github.com/Dakshgupta25/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Dakshgupta25/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Dakshgupta25/DSA/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Dakshgupta25/DSA/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dakshgupta25/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0207-course-schedule](https://github.com/Dakshgupta25/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Dakshgupta25/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Dakshgupta25/DSA/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Dakshgupta25/DSA/tree/master/0684-redundant-connection) |
 | [0994-rotting-oranges](https://github.com/Dakshgupta25/DSA/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dakshgupta25/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Linked List
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0207-course-schedule](https://github.com/Dakshgupta25/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Dakshgupta25/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Dakshgupta25/DSA/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Dakshgupta25/DSA/tree/master/0684-redundant-connection) |
 | [0997-find-the-town-judge](https://github.com/Dakshgupta25/DSA/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Dakshgupta25/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dakshgupta25/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0200-number-of-islands](https://github.com/Dakshgupta25/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Dakshgupta25/DSA/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Dakshgupta25/DSA/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dakshgupta25/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
