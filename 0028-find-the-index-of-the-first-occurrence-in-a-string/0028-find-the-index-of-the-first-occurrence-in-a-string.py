@@ -2,14 +2,15 @@ class Solution(object):
     def strStr(self, haystack, needle):
         if not needle:
             return 0
-
+        n=len(needle)
+        m=len(haystack)
         # Build LPS array
-        lps = [0] * len(needle)
+        lps = [0] * n
 
         length = 0
         i = 1
 
-        while i < len(needle):
+        while i < n:
             if needle[i] == needle[length]:
                 length += 1
                 lps[i] = length
@@ -25,12 +26,12 @@ class Solution(object):
         i = 0  # haystack
         j = 0  # needle
 
-        while i < len(haystack):
+        while i < m:
             if haystack[i] == needle[j]:
                 i += 1
                 j += 1
 
-                if j == len(needle):
+                if j == n:
                     return i - j
             else:
                 if j != 0:
