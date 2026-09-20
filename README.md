@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Dakshgupta25/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Dakshgupta25/DSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2974-minimum-number-game](https://github.com/Dakshgupta25/DSA/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dakshgupta25/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dakshgupta25/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Dakshgupta25/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dakshgupta25/DSA/tree/master/3828-final-element-after-subarray-deletions) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2405-optimal-partition-of-string](https://github.com/Dakshgupta25/DSA/tree/master/2405-optimal-partition-of-string) |
 | [2848-points-that-intersect-with-cars](https://github.com/Dakshgupta25/DSA/tree/master/2848-points-that-intersect-with-cars) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Dakshgupta25/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dakshgupta25/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dakshgupta25/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dakshgupta25/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Dakshgupta25/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2126-destroying-asteroids](https://github.com/Dakshgupta25/DSA/tree/master/2126-destroying-asteroids) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Dakshgupta25/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/Dakshgupta25/DSA/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dakshgupta25/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Dakshgupta25/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Bit Manipulation
 |  |
