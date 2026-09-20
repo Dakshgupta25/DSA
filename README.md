@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dakshgupta25/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Dakshgupta25/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3227-vowels-game-in-a-string](https://github.com/Dakshgupta25/DSA/tree/master/3227-vowels-game-in-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dakshgupta25/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Game Theory
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Dakshgupta25/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Dakshgupta25/DSA/tree/master/2974-minimum-number-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Dakshgupta25/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dakshgupta25/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
 | ------- |
