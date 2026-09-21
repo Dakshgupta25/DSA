@@ -1,41 +1,27 @@
 class Solution(object):
     def numIslands(self, grid):
         
-        rows = len(grid)
-        cols = len(grid[0])
+        n=len(grid)
+        m=len(grid[0])
 
-        visited = [[False] * cols for _ in range(rows)]
-        count = 0
+        visited=[[0]*m for _ in range(n) ]
+        cnt=0
 
-        def dfs(r, c):
-            
-            # Outside the grid
-            if r < 0 or r >= rows or c < 0 or c >= cols:
+        def dfs(i,j):
+            if i<0 or i>=n or j<0 or j>=m or visited[i][j] or grid[i][j]=="0":
                 return
+            visited[i][j]=1
+
+            dfs(i-1,j)
+            dfs(i,j-1)
+            dfs(i+1,j)
+            dfs(i,j+1)
+        
+        for i in range(n):
+            for j in range(m):
+                if not visited[i][j] and grid[i][j]=="1":
+                    cnt+=1
+                    dfs(i,j)
+        return cnt
+
             
-            # Water or already visited
-            if grid[r][c] == "0" or visited[r][c]:
-                return
-            
-            visited[r][c] = True
-
-            # Up
-            dfs(r - 1, c)
-
-            # Down
-            dfs(r + 1, c)
-
-            # Left
-            dfs(r, c - 1)
-
-            # Right
-            dfs(r, c + 1)
-
-        for r in range(rows):
-            for c in range(cols):
-
-                if grid[r][c] == "1" and not visited[r][c]:
-                    dfs(r, c)
-                    count += 1
-
-        return count
