@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0347-top-k-frequent-elements](https://github.com/Dakshgupta25/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0624-maximum-distance-in-arrays](https://github.com/Dakshgupta25/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0682-baseball-game](https://github.com/Dakshgupta25/DSA/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Dakshgupta25/DSA/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Dakshgupta25/DSA/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Dakshgupta25/DSA/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/Dakshgupta25/DSA/tree/master/0877-stone-game) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Dakshgupta25/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Dakshgupta25/DSA/tree/master/0695-max-area-of-island) |
 | [0832-flipping-an-image](https://github.com/Dakshgupta25/DSA/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/Dakshgupta25/DSA/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dakshgupta25/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0210-course-schedule-ii](https://github.com/Dakshgupta25/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Dakshgupta25/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Dakshgupta25/DSA/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/Dakshgupta25/DSA/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dakshgupta25/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0210-course-schedule-ii](https://github.com/Dakshgupta25/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Dakshgupta25/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Dakshgupta25/DSA/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/Dakshgupta25/DSA/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Dakshgupta25/DSA/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dakshgupta25/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Linked List
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0200-number-of-islands](https://github.com/Dakshgupta25/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Dakshgupta25/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Dakshgupta25/DSA/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/Dakshgupta25/DSA/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dakshgupta25/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
