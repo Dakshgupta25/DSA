@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0001-two-sum](https://github.com/Dakshgupta25/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Dakshgupta25/DSA/tree/master/0014-longest-common-prefix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dakshgupta25/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/Dakshgupta25/DSA/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/Dakshgupta25/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dakshgupta25/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Dakshgupta25/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Dakshgupta25/DSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Dakshgupta25/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Dakshgupta25/DSA/tree/master/0695-max-area-of-island) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0101-symmetric-tree](https://github.com/Dakshgupta25/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dakshgupta25/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dakshgupta25/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Dakshgupta25/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Dakshgupta25/DSA/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0101-symmetric-tree](https://github.com/Dakshgupta25/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dakshgupta25/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/Dakshgupta25/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Dakshgupta25/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Dakshgupta25/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Dakshgupta25/DSA/tree/master/0207-course-schedule) |
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Dakshgupta25/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Dakshgupta25/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Dakshgupta25/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Dakshgupta25/DSA/tree/master/0684-redundant-connection) |
