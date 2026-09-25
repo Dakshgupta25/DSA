@@ -1,31 +1,27 @@
 class Solution(object):
-    def findOrder(self, numCourses, prerequisites):
-        """
-        :type numCourses: int
-        :type prerequisites: List[List[int]]
-        :rtype: List[int]
-        """
-        graph=[[] for _ in range(numCourses)]
+    def findOrder(self, n, pre):
+        graph=[[] for _ in range(n)]
 
-        state=[0]*numCourses
+        for i,j in pre:
+            graph[i].append(j)
+        
+        state=[0]*n
         res=[]
-        for u,v in prerequisites:
-            graph[u].append(v)
-
-        def dfs(node):
-            if state[node]==1:
+        def dfs(cor):
+            if state[cor]==1:
                 return False
-            if state[node]==2:
+            if state[cor]==2:
                 return True
-            state[node]=1
-            for nbr in graph[node]:
-                if not dfs(nbr):
+            state[cor]=1
+
+            for i in graph[cor]:
+                if not dfs(i):
                     return False
-            state[node]=2
-            res.append(node)
+            state[cor]=2
+            res.append(cor)
             return True
-        for i in range(numCourses):
+        
+        for i in range(n):
             if not dfs(i):
                 return []
         return res
-        
