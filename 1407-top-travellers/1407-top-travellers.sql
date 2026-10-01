@@ -11,4 +11,4 @@ GROUP BY
     u.name
 ORDER BY 
     travelled_distance DESC, 
-    u.name ;
+    u.name ASC;
