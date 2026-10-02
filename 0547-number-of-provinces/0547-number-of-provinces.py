@@ -1,15 +1,25 @@
 class Solution(object):
     def findCircleNum(self, isConnected):
+        """
+        :type isConnected: List[List[int]]
+        :rtype: int
+        """
         n=len(isConnected)
-        visited=[False]*n
-        count=0
+        graph = [[] for _ in range(n)]
 
-        def dfs(city):
-            for nbr in range(n):
-                if isConnected[city][nbr]==1 and visited[nbr]==False:
-                    visited[nbr]=True
-                    dfs(nbr)
-        
+        for i in range(n):
+            for j in range(n):
+                if i != j and isConnected[i][j]==1:
+                    graph[i].append(j)
+
+        count=0
+        visited=[False]*n
+
+        def dfs(node):
+            visited[node]=True
+            for i in graph[node]:
+                if not visited[i]:
+                    dfs(i)
         for i in range(n):
             if not visited[i]:
                 dfs(i)
