@@ -7,21 +7,19 @@ class Solution(object):
         :type destination: int
         :rtype: bool
         """
-        
-        graph= [[] for _ in range(n)]
-        visited=[False]*n
-
+        graph=[[] for _ in range(n)]
         for u,v in edges:
             graph[u].append(v)
             graph[v].append(u)
-        
+        visited=[0]*n
         def dfs(node):
+            if visited[node]==1:
+                return False
+            visited[node]=1
             if node==destination:
                 return True
-            visited[node]=True
-            for nbr in graph[node]:
-                if not visited[nbr]:
-                    if dfs(nbr):
-                        return True
+            for i in graph[node]:
+                if dfs(i):
+                    return True
             return False
         return dfs(source)
