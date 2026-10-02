@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1148-article-views-i](https://github.com/Dakshgupta25/DSA/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/Dakshgupta25/DSA/tree/master/1193-monthly-transactions-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Dakshgupta25/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1393-capital-gainloss](https://github.com/Dakshgupta25/DSA/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/Dakshgupta25/DSA/tree/master/1407-top-travellers) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Dakshgupta25/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/Dakshgupta25/DSA/tree/master/1587-bank-account-summary-ii) |
