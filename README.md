@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Dakshgupta25/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Dakshgupta25/DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Dakshgupta25/DSA/tree/master/0595-big-countries) |
+| [1045-customers-who-bought-all-products](https://github.com/Dakshgupta25/DSA/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/Dakshgupta25/DSA/tree/master/1068-product-sales-analysis-i) |
 | [1084-sales-analysis-iii](https://github.com/Dakshgupta25/DSA/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/Dakshgupta25/DSA/tree/master/1148-article-views-i) |
