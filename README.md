@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1084-sales-analysis-iii](https://github.com/Dakshgupta25/DSA/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/Dakshgupta25/DSA/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/Dakshgupta25/DSA/tree/master/1193-monthly-transactions-i) |
+| [1251-average-selling-price](https://github.com/Dakshgupta25/DSA/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Dakshgupta25/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/Dakshgupta25/DSA/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/Dakshgupta25/DSA/tree/master/1407-top-travellers) |
