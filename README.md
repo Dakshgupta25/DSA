@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0547-number-of-provinces](https://github.com/Dakshgupta25/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Dakshgupta25/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Dakshgupta25/DSA/tree/master/0695-max-area-of-island) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Dakshgupta25/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dakshgupta25/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0684-redundant-connection](https://github.com/Dakshgupta25/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Dakshgupta25/DSA/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Dakshgupta25/DSA/tree/master/0994-rotting-oranges) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Dakshgupta25/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dakshgupta25/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Linked List
 |  |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0547-number-of-provinces](https://github.com/Dakshgupta25/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Dakshgupta25/DSA/tree/master/0684-redundant-connection) |
 | [0997-find-the-town-judge](https://github.com/Dakshgupta25/DSA/tree/master/0997-find-the-town-judge) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Dakshgupta25/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1791-find-center-of-star-graph](https://github.com/Dakshgupta25/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dakshgupta25/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0547-number-of-provinces](https://github.com/Dakshgupta25/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Dakshgupta25/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Dakshgupta25/DSA/tree/master/0695-max-area-of-island) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Dakshgupta25/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dakshgupta25/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
