@@ -1,10 +1,9 @@
-SELECT start.machine_id, 
-    (ROUND(SUM(end.timestamp-start.timestamp)*1.0/COUNT(start.process_id)
-        ,3
-    )) AS processing_time
-FROM 
-(SELECT * FROM Activity WHERE activity_type="start") start
-JOIN
-(SELECT * FROM Activity WHERE activity_type="end") end
-ON start.machine_id=end.machine_id AND start.process_id=end.process_id
-GROUP BY start.machine_id,end.machine_id;
+SELECT machine_id,
+       ROUND(
+           (SUM(CASE WHEN activity_type = 'end' THEN timestamp ELSE 0 END)
+          - SUM(CASE WHEN activity_type = 'start' THEN timestamp ELSE 0 END))
+           / COUNT(DISTINCT process_id),
+           3
+       ) AS processing_time
+FROM Activity
+GROUP BY machine_id; 
