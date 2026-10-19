@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dakshgupta25/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Dakshgupta25/DSA/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/Dakshgupta25/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Dakshgupta25/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dakshgupta25/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Dakshgupta25/DSA/tree/master/0217-contains-duplicate) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0001-two-sum](https://github.com/Dakshgupta25/DSA/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/Dakshgupta25/DSA/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/Dakshgupta25/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dakshgupta25/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dakshgupta25/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Dakshgupta25/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dakshgupta25/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dakshgupta25/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Dakshgupta25/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dakshgupta25/DSA/tree/master/0268-missing-number) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dakshgupta25/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Dakshgupta25/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dakshgupta25/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dakshgupta25/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dakshgupta25/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Dakshgupta25/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dakshgupta25/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Dakshgupta25/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -495,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dakshgupta25/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dakshgupta25/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
