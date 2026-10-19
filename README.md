@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0200-number-of-islands](https://github.com/Dakshgupta25/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dakshgupta25/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Dakshgupta25/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Dakshgupta25/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Dakshgupta25/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Dakshgupta25/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Dakshgupta25/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Dakshgupta25/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dakshgupta25/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Dakshgupta25/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Dakshgupta25/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Dakshgupta25/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dakshgupta25/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0169-majority-element](https://github.com/Dakshgupta25/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dakshgupta25/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Dakshgupta25/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Dakshgupta25/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Dakshgupta25/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Dakshgupta25/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/Dakshgupta25/DSA/tree/master/0881-boats-to-save-people) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dakshgupta25/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Dakshgupta25/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dakshgupta25/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dakshgupta25/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dakshgupta25/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -507,4 +511,5 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dakshgupta25/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Dakshgupta25/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
