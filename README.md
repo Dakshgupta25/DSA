@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0001-two-sum](https://github.com/Dakshgupta25/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Dakshgupta25/DSA/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/Dakshgupta25/DSA/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dakshgupta25/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Dakshgupta25/DSA/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Dakshgupta25/DSA/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dakshgupta25/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
 | [0542-01-matrix](https://github.com/Dakshgupta25/DSA/tree/master/0542-01-matrix) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Dakshgupta25/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Dakshgupta25/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Dakshgupta25/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dakshgupta25/DSA/tree/master/0215-kth-largest-element-in-an-array) |
