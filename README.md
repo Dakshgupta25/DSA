@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0001-two-sum](https://github.com/Dakshgupta25/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Dakshgupta25/DSA/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Dakshgupta25/DSA/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Dakshgupta25/DSA/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dakshgupta25/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Dakshgupta25/DSA/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Dakshgupta25/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Dakshgupta25/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dakshgupta25/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Dakshgupta25/DSA/tree/master/0217-contains-duplicate) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dakshgupta25/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Dakshgupta25/DSA/tree/master/0075-sort-colors) |
 | [0832-flipping-an-image](https://github.com/Dakshgupta25/DSA/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Dakshgupta25/DSA/tree/master/0881-boats-to-save-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Dakshgupta25/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -512,4 +515,12 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0169-majority-element](https://github.com/Dakshgupta25/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dakshgupta25/DSA/tree/master/0229-majority-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Dakshgupta25/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Dakshgupta25/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
