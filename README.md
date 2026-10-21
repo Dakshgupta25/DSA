@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0001-two-sum](https://github.com/Dakshgupta25/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Dakshgupta25/DSA/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Dakshgupta25/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Dakshgupta25/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Dakshgupta25/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Dakshgupta25/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dakshgupta25/DSA/tree/master/0088-merge-sorted-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dakshgupta25/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Dakshgupta25/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Dakshgupta25/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Dakshgupta25/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dakshgupta25/DSA/tree/master/0088-merge-sorted-array) |
 | [0832-flipping-an-image](https://github.com/Dakshgupta25/DSA/tree/master/0832-flipping-an-image) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dakshgupta25/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Dakshgupta25/DSA/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dakshgupta25/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dakshgupta25/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dakshgupta25/DSA/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dakshgupta25/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
