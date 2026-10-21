@@ -16,7 +16,8 @@ class Solution(object):
         res=[]
         while queue:
             cur=[]
-            for i in range(len(queue)):
+            size=len(queue)
+            for i in range(size):
                 node=queue.popleft()
                 cur.append(node.val)
                 if node.left:
