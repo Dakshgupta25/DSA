@@ -1,26 +1,28 @@
 class Solution(object):
     def canFinish(self, n, pre):
-        graph=[[] for _ in range(n)]
+        indegree= [0]*n
+        adj=[[] for _ in range(n)]
 
         for i,j in pre:
-            graph[i].append(j)
-        
-        state=[0]*n
-
-        def dfs(cor):
-            if state[cor]==1:
-                return False
-            if state[cor]==2:
-                return True
-            state[cor]=1
-
-            for i in graph[cor]:
-                if not dfs(i):
-                    return False
-            state[cor]=2
-            return True
+            adj[i].append(j)
         
         for i in range(n):
-            if not dfs(i):
-                return False
-        return True
+            for j in adj[i]:
+                indegree[j]+=1
+        
+        queue=deque([])
+        completed=0
+        for i in range(n):
+            if indegree[i]==0:
+                queue.append(i)
+                completed+=1
+        
+        while queue:
+            node=queue.popleft()
+            for i in adj[node]:
+                indegree[i]-=1
+                if indegree[i]==0:
+                    completed+=1
+                    queue.append(i)
+        
+        return completed==n
