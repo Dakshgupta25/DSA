@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0053-maximum-subarray](https://github.com/Dakshgupta25/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Dakshgupta25/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dakshgupta25/DSA/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dakshgupta25/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Dakshgupta25/DSA/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dakshgupta25/DSA/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/Dakshgupta25/DSA/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Dakshgupta25/DSA/tree/master/0169-majority-element) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dakshgupta25/DSA/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Dakshgupta25/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Dakshgupta25/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dakshgupta25/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0101-symmetric-tree](https://github.com/Dakshgupta25/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dakshgupta25/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dakshgupta25/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -443,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0101-symmetric-tree](https://github.com/Dakshgupta25/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dakshgupta25/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dakshgupta25/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0145-binary-tree-postorder-traversal) |
