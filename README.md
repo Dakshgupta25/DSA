@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dakshgupta25/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dakshgupta25/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Dakshgupta25/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3693-climbing-stairs-ii](https://github.com/Dakshgupta25/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dakshgupta25/DSA/tree/master/3828-final-element-after-subarray-deletions) |
 ## Hash Table
 |  |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0877-stone-game](https://github.com/Dakshgupta25/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dakshgupta25/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1025-divisor-game](https://github.com/Dakshgupta25/DSA/tree/master/1025-divisor-game) |
+| [3693-climbing-stairs-ii](https://github.com/Dakshgupta25/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
 | ------- |
