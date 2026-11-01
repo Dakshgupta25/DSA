@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0695-max-area-of-island](https://github.com/Dakshgupta25/DSA/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Dakshgupta25/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Dakshgupta25/DSA/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/Dakshgupta25/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0832-flipping-an-image](https://github.com/Dakshgupta25/DSA/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/Dakshgupta25/DSA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Dakshgupta25/DSA/tree/master/0881-boats-to-save-people) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dakshgupta25/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
 | [0542-01-matrix](https://github.com/Dakshgupta25/DSA/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/Dakshgupta25/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Dakshgupta25/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dakshgupta25/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1025-divisor-game](https://github.com/Dakshgupta25/DSA/tree/master/1025-divisor-game) |
