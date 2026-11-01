@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dakshgupta25/DSA/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Dakshgupta25/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Dakshgupta25/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Dakshgupta25/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Dakshgupta25/DSA/tree/master/0263-ugly-number) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dakshgupta25/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Dakshgupta25/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Dakshgupta25/DSA/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dakshgupta25/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dakshgupta25/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Dakshgupta25/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
 ## Brute-Force Search
 |  |
