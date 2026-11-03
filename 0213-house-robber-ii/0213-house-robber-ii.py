@@ -5,18 +5,20 @@ class Solution(object):
         :rtype: int
         """
 
-        if len(nums) == 1:
+        n = len(nums)
+
+        if n == 1:
             return nums[0]
 
-        def helper(arr):
+        def helper(start, end):
             twoback = 0
-            oneback = arr[0]
+            oneback = 0
 
-            for i in arr[1:]:
-                pick = i + twoback
+            for i in range(start, end):
+                pick = nums[i] + twoback
                 twoback = oneback
                 oneback = max(pick, oneback)
 
             return oneback
 
-        return max(helper(nums[:-1]), helper(nums[1:]))
+        return max(helper(0, n-1), helper(1, n))
