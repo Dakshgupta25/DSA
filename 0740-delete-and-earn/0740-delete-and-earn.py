@@ -1,26 +1,16 @@
-class Solution(object):
+class Solution:
     def deleteAndEarn(self, nums):
-        dic = {}
+        points = [0] * (max(nums) + 1)
 
-        for i in nums:
-            dic[i] = dic.get(i, 0) + 1
+        for num in nums:
+            points[num] += num
 
-        dic = dict(sorted(dic.items()))
+        prev2 = 0
+        prev1 = 0
 
-        twoback = 0
-        oneback = 0
-        prev = -1
+        for point in points:
+            current = max(prev1, prev2 + point)
+            prev2 = prev1
+            prev1 = current
 
-        for key, value in dic.items():
-            points = key * value
-
-            if key == prev + 1:
-                curr = max(oneback, twoback + points)
-            else:
-                curr = oneback + points
-
-            twoback = oneback
-            oneback = curr
-            prev = key
-
-        return oneback
+        return prev1
