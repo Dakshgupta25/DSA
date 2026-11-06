@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0624-maximum-distance-in-arrays](https://github.com/Dakshgupta25/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0682-baseball-game](https://github.com/Dakshgupta25/DSA/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Dakshgupta25/DSA/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dakshgupta25/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Dakshgupta25/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Dakshgupta25/DSA/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/Dakshgupta25/DSA/tree/master/0740-delete-and-earn) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dakshgupta25/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Dakshgupta25/DSA/tree/master/0624-maximum-distance-in-arrays) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dakshgupta25/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0881-boats-to-save-people](https://github.com/Dakshgupta25/DSA/tree/master/0881-boats-to-save-people) |
 | [0991-broken-calculator](https://github.com/Dakshgupta25/DSA/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/Dakshgupta25/DSA/tree/master/1328-break-a-palindrome) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0198-house-robber](https://github.com/Dakshgupta25/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Dakshgupta25/DSA/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/Dakshgupta25/DSA/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dakshgupta25/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Dakshgupta25/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dakshgupta25/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Dakshgupta25/DSA/tree/master/0877-stone-game) |
