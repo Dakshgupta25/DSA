@@ -1,10 +1,24 @@
 class Solution(object):
     def maxProfit(self, prices, fee):
-        hold = -prices[0]
-        cash = 0
+        n = len(prices)
 
-        for price in prices[1:]:
-            cash = max(cash, hold + price - fee)
-            hold = max(hold, cash - price)
+        after = [0] * 2
 
-        return cash
+        for day in range(n-1, -1, -1):
+            cur = [0] * 2
+
+            # Can buy
+            cur[1] = max(
+                -prices[day] + after[0],
+                after[1]
+            )
+
+            # Can sell
+            cur[0] = max(
+                prices[day] - fee + after[1],
+                after[0]
+            )
+
+            after = cur
+
+        return after[1]
