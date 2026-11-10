@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dakshgupta25/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dakshgupta25/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dakshgupta25/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Dakshgupta25/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Dakshgupta25/DSA/tree/master/2126-destroying-asteroids) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Dakshgupta25/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Dakshgupta25/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dakshgupta25/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dakshgupta25/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Dakshgupta25/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Dakshgupta25/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Dakshgupta25/DSA/tree/master/2126-destroying-asteroids) |
 | [2405-optimal-partition-of-string](https://github.com/Dakshgupta25/DSA/tree/master/2405-optimal-partition-of-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Dakshgupta25/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
