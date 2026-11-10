@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dakshgupta25/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Dakshgupta25/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/Dakshgupta25/DSA/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Dakshgupta25/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Dakshgupta25/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dakshgupta25/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Dakshgupta25/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dakshgupta25/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dakshgupta25/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
