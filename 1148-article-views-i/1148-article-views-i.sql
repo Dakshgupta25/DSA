@@ -1,6 +1,1 @@
-
-select author_id AS id
-from Views
-where author_id = viewer_id
-GROUP BY author_id
-ORDER BY id
+select distinct(author_id) as id from Views where author_id=viewer_id order by id
