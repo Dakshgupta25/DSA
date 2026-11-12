@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0881-boats-to-save-people](https://github.com/Dakshgupta25/DSA/tree/master/0881-boats-to-save-people) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dakshgupta25/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dakshgupta25/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0930-binary-subarrays-with-sum](https://github.com/Dakshgupta25/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/Dakshgupta25/DSA/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Dakshgupta25/DSA/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dakshgupta25/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0347-top-k-frequent-elements](https://github.com/Dakshgupta25/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0740-delete-and-earn](https://github.com/Dakshgupta25/DSA/tree/master/0740-delete-and-earn) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dakshgupta25/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0930-binary-subarrays-with-sum](https://github.com/Dakshgupta25/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0997-find-the-town-judge](https://github.com/Dakshgupta25/DSA/tree/master/0997-find-the-town-judge) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dakshgupta25/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dakshgupta25/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dakshgupta25/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0930-binary-subarrays-with-sum](https://github.com/Dakshgupta25/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dakshgupta25/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dakshgupta25/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dakshgupta25/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Dakshgupta25/DSA/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Dakshgupta25/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dakshgupta25/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2848-points-that-intersect-with-cars](https://github.com/Dakshgupta25/DSA/tree/master/2848-points-that-intersect-with-cars) |
 ## Divide and Conquer
