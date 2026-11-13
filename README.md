@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0053-maximum-subarray](https://github.com/Dakshgupta25/DSA/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Dakshgupta25/DSA/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Dakshgupta25/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Dakshgupta25/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Dakshgupta25/DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dakshgupta25/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Dakshgupta25/DSA/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Dakshgupta25/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Dakshgupta25/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dakshgupta25/DSA/tree/master/0268-missing-number) |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dakshgupta25/DSA/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Dakshgupta25/DSA/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
