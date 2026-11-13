@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dakshgupta25/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Dakshgupta25/DSA/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Dakshgupta25/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dakshgupta25/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
 | [1328-break-a-palindrome](https://github.com/Dakshgupta25/DSA/tree/master/1328-break-a-palindrome) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Dakshgupta25/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dakshgupta25/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Dakshgupta25/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Dakshgupta25/DSA/tree/master/0062-unique-paths) |
@@ -648,4 +650,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Dakshgupta25/DSA/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Dakshgupta25/DSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Dakshgupta25/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
