@@ -1,3 +1,4 @@
+
 SELECT 
     s.user_id,
     ROUND(IFNULL(AVG(c.action = 'confirmed'),0),2) AS confirmation_rate
