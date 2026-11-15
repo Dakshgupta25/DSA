@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dakshgupta25/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dakshgupta25/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dakshgupta25/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dakshgupta25/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dakshgupta25/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Dakshgupta25/DSA/tree/master/2126-destroying-asteroids) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Dakshgupta25/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dakshgupta25/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dakshgupta25/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dakshgupta25/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dakshgupta25/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2126-destroying-asteroids](https://github.com/Dakshgupta25/DSA/tree/master/2126-destroying-asteroids) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Dakshgupta25/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/Dakshgupta25/DSA/tree/master/2974-minimum-number-game) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0268-missing-number](https://github.com/Dakshgupta25/DSA/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dakshgupta25/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/Dakshgupta25/DSA/tree/master/0832-flipping-an-image) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dakshgupta25/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Dakshgupta25/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dakshgupta25/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0088-merge-sorted-array](https://github.com/Dakshgupta25/DSA/tree/master/0088-merge-sorted-array) |
 | [0832-flipping-an-image](https://github.com/Dakshgupta25/DSA/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Dakshgupta25/DSA/tree/master/0881-boats-to-save-people) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dakshgupta25/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Dakshgupta25/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/Dakshgupta25/DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0931-minimum-falling-path-sum](https://github.com/Dakshgupta25/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1025-divisor-game](https://github.com/Dakshgupta25/DSA/tree/master/1025-divisor-game) |
 | [1463-cherry-pickup-ii](https://github.com/Dakshgupta25/DSA/tree/master/1463-cherry-pickup-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dakshgupta25/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3693-climbing-stairs-ii](https://github.com/Dakshgupta25/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
@@ -305,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0268-missing-number](https://github.com/Dakshgupta25/DSA/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dakshgupta25/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dakshgupta25/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dakshgupta25/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -688,4 +694,16 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Dakshgupta25/DSA/tree/master/0416-partition-equal-subset-sum) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dakshgupta25/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dakshgupta25/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dakshgupta25/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
