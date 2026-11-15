@@ -1,28 +1,37 @@
-class Solution(object):
+class Solution:
     def canPartition(self, nums):
-        n = len(nums)
         total = sum(nums)
 
         if total % 2 != 0:
             return False
 
         k = total // 2
-        memo=[[-1]*(k+1) for _ in range(n)]
-        def solve(ind, target):
-            if target == 0:
-                return True
 
-            if ind == 0:
-                return nums[0] == target
-            if memo[ind][target]!=-1:
-                return memo[ind][target]
+        # Base case
+        prev = [False] * (k + 1)
+        prev[0] = True
 
-            notTake = solve(ind-1, target)
+        if nums[0] <= k:
+            prev[nums[0]] = True
 
-            take = False
-            if nums[ind] <= target:
-                take = solve(ind-1, target-nums[ind])
+        for ind in range(1, len(nums)):
+            cur = [False] * (k + 1)
 
-            memo[ind][target]= take or notTake
-            return memo[ind][target]
-        return solve(n-1,k)
+            # Target 0 is always possible
+            cur[0] = True
+
+            for target in range(1, k + 1):
+
+                # Not take current element
+                notTake = prev[target]
+
+                # Take current element
+                take = False
+                if nums[ind] <= target:
+                    take = prev[target - nums[ind]]
+
+                cur[target] = take or notTake
+
+            prev = cur
+
+        return prev[k]
