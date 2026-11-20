@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dakshgupta25/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dakshgupta25/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Dakshgupta25/DSA/tree/master/0682-baseball-game) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dakshgupta25/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Dakshgupta25/DSA/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dakshgupta25/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dakshgupta25/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dakshgupta25/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0101-symmetric-tree](https://github.com/Dakshgupta25/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dakshgupta25/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dakshgupta25/DSA/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dakshgupta25/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dakshgupta25/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dakshgupta25/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Dakshgupta25/DSA/tree/master/0130-surrounded-regions) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dakshgupta25/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Dakshgupta25/DSA/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dakshgupta25/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dakshgupta25/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dakshgupta25/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dakshgupta25/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -592,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0002-add-two-numbers](https://github.com/Dakshgupta25/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Dakshgupta25/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Dakshgupta25/DSA/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dakshgupta25/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/Dakshgupta25/DSA/tree/master/0206-reverse-linked-list) |
 ## Trie
 |  |
