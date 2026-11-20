@@ -4,18 +4,24 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution:
     def flatten(self, root):
+        if not root:
+            return
+
+        self.flatten(root.left)
+        self.flatten(root.right)
+
+        left = root.left
+        right = root.right
+
+        root.left = None
+        root.right = left
+
         curr = root
 
-        while curr:
-            if curr.left:
-                prev = curr.left
-                while prev.right:
-                    prev = prev.right
-
-                prev.right = curr.right
-                curr.right = curr.left
-                curr.left = None
-
+        while curr.right:
             curr = curr.right
+
+        curr.right = right
