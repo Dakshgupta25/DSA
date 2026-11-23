@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0997-find-the-town-judge](https://github.com/Dakshgupta25/DSA/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dakshgupta25/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Dakshgupta25/DSA/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/Dakshgupta25/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dakshgupta25/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/Dakshgupta25/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dakshgupta25/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0907-sum-of-subarray-minimums](https://github.com/Dakshgupta25/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Dakshgupta25/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1025-divisor-game](https://github.com/Dakshgupta25/DSA/tree/master/1025-divisor-game) |
+| [1049-last-stone-weight-ii](https://github.com/Dakshgupta25/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Dakshgupta25/DSA/tree/master/1463-cherry-pickup-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dakshgupta25/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3693-climbing-stairs-ii](https://github.com/Dakshgupta25/DSA/tree/master/3693-climbing-stairs-ii) |
@@ -717,10 +719,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Dakshgupta25/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Dakshgupta25/DSA/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Dakshgupta25/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Dakshgupta25/DSA/tree/master/1049-last-stone-weight-ii) |
 ## Meet in the Middle
 |  |
 | ------- |
