@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0022-generate-parentheses](https://github.com/Dakshgupta25/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dakshgupta25/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
+| [1143-longest-common-subsequence](https://github.com/Dakshgupta25/DSA/tree/master/1143-longest-common-subsequence) |
 | [1328-break-a-palindrome](https://github.com/Dakshgupta25/DSA/tree/master/1328-break-a-palindrome) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dakshgupta25/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1447-simplified-fractions](https://github.com/Dakshgupta25/DSA/tree/master/1447-simplified-fractions) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0931-minimum-falling-path-sum](https://github.com/Dakshgupta25/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1025-divisor-game](https://github.com/Dakshgupta25/DSA/tree/master/1025-divisor-game) |
 | [1049-last-stone-weight-ii](https://github.com/Dakshgupta25/DSA/tree/master/1049-last-stone-weight-ii) |
+| [1143-longest-common-subsequence](https://github.com/Dakshgupta25/DSA/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/Dakshgupta25/DSA/tree/master/1463-cherry-pickup-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dakshgupta25/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3693-climbing-stairs-ii](https://github.com/Dakshgupta25/DSA/tree/master/3693-climbing-stairs-ii) |
@@ -749,4 +751,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Dakshgupta25/DSA/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Dakshgupta25/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
