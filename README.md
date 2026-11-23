@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0416-partition-equal-subset-sum](https://github.com/Dakshgupta25/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Dakshgupta25/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/Dakshgupta25/DSA/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Dakshgupta25/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Dakshgupta25/DSA/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/Dakshgupta25/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0682-baseball-game](https://github.com/Dakshgupta25/DSA/tree/master/0682-baseball-game) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Dakshgupta25/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/Dakshgupta25/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Dakshgupta25/DSA/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Dakshgupta25/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Dakshgupta25/DSA/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dakshgupta25/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Dakshgupta25/DSA/tree/master/0740-delete-and-earn) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Dakshgupta25/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Dakshgupta25/DSA/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Dakshgupta25/DSA/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/Dakshgupta25/DSA/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
@@ -742,4 +745,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dakshgupta25/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Dakshgupta25/DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
