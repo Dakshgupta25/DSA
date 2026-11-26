@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dakshgupta25/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Dakshgupta25/DSA/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Dakshgupta25/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1328-break-a-palindrome](https://github.com/Dakshgupta25/DSA/tree/master/1328-break-a-palindrome) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dakshgupta25/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1447-simplified-fractions](https://github.com/Dakshgupta25/DSA/tree/master/1447-simplified-fractions) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1025-divisor-game](https://github.com/Dakshgupta25/DSA/tree/master/1025-divisor-game) |
 | [1049-last-stone-weight-ii](https://github.com/Dakshgupta25/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Dakshgupta25/DSA/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Dakshgupta25/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/Dakshgupta25/DSA/tree/master/1463-cherry-pickup-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dakshgupta25/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3693-climbing-stairs-ii](https://github.com/Dakshgupta25/DSA/tree/master/3693-climbing-stairs-ii) |
