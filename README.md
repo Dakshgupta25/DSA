@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dakshgupta25/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dakshgupta25/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/Dakshgupta25/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Dakshgupta25/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Dakshgupta25/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1328-break-a-palindrome](https://github.com/Dakshgupta25/DSA/tree/master/1328-break-a-palindrome) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0516-longest-palindromic-subsequence](https://github.com/Dakshgupta25/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Dakshgupta25/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Dakshgupta25/DSA/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/Dakshgupta25/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dakshgupta25/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Dakshgupta25/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dakshgupta25/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/Dakshgupta25/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Dakshgupta25/DSA/tree/master/1143-longest-common-subsequence) |
 ## Longest Increasing Subsequence
 |  |
