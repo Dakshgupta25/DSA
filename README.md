@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0139-word-break](https://github.com/Dakshgupta25/DSA/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dakshgupta25/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Dakshgupta25/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/Dakshgupta25/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Dakshgupta25/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Dakshgupta25/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1328-break-a-palindrome](https://github.com/Dakshgupta25/DSA/tree/master/1328-break-a-palindrome) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0931-minimum-falling-path-sum](https://github.com/Dakshgupta25/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1025-divisor-game](https://github.com/Dakshgupta25/DSA/tree/master/1025-divisor-game) |
 | [1049-last-stone-weight-ii](https://github.com/Dakshgupta25/DSA/tree/master/1049-last-stone-weight-ii) |
+| [1092-shortest-common-supersequence](https://github.com/Dakshgupta25/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Dakshgupta25/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Dakshgupta25/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/Dakshgupta25/DSA/tree/master/1463-cherry-pickup-ii) |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Dakshgupta25/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/Dakshgupta25/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Dakshgupta25/DSA/tree/master/1143-longest-common-subsequence) |
 ## Longest Increasing Subsequence
 |  |
